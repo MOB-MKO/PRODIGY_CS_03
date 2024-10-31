@@ -5,10 +5,10 @@ Build a tool that assesses the strength of a password based on criteria such as 
 Explanation:
 
 Criteria Checks: The tool checks if the password meets each of the following criteria:
-Length (at least 8 characters)
-Contains uppercase letters
-Contains lowercase letters
-Contains numbers
+Length (at least 8 characters),
+Contains uppercase letters,
+Contains lowercase letters,
+Contains numbers,
 Contains special characters.
 
 Strength Score: Each criterion met adds one point to the strength score, giving a maximum score of 5.
